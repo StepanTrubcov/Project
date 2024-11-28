@@ -20,8 +20,7 @@
 
 .img{
   width: 30px;
-  margin: 5px;
-  border-radius: 10px ;
+  margin-left: 20px ;
 }
 
 .a{
@@ -29,17 +28,21 @@
   display: flex;
   text-decoration: none;
   color: rgb(255, 255, 255);
-  background-color: rgb(127, 191, 255);
-  border-radius: 20px;
-  font-size: 25px;
-  width: 250px;
+  background-color: rgb(0, 76, 151);
+  border-radius: 13px;
+  font-size: 28px;
+  font-weight: 600;
+  width: 300px;
   height: 40px;
-  justify-content: center;
 }
 
 .div{
   display: flex;
   justify-content: center;
+}
+
+.name{
+  margin-left: 20px;
 }
 
 @media (max-width:400px){
